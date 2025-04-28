@@ -1,0 +1,14 @@
+1,pitcher
+2,catcher
+3,first baseman
+4,second baseman
+5,third baseman
+6,shortstop
+7,left field
+8,center field
+9,right field
+10,batter
+11,runner on first base
+12,runner on second base
+13,runner on third base
+255, ball event with no player
